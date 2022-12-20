@@ -8,7 +8,7 @@ public class Main {
         FeatureSun Xero= new FeatureSun();
         Xero.Heat="12324234";
         Xero.size=1221334234;
-        Xero.Temperature="3434";
+        Xero.Temperature=700;
     }
 
 }
